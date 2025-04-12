@@ -1,0 +1,124 @@
+.full{
+    padding-left: 50%;
+}
+
+.box1{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(0, 255, 255);
+    transition: all .5s;
+}
+.box1:hover{
+    width: 200px;
+    height:200px;
+    background-color: rgba(5, 5, 212, 0.779);
+    transform: rotate(90deg);
+    margin-left: 100px;
+    border-radius: 200px;
+}
+
+
+.box2{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(0, 208, 255);
+    animation-name: anime1;
+    animation-duration: 10s;
+    animation-iteration-count: 100;
+}
+
+@keyframes anime1 {
+    0%{
+        background-color: rgb(255, 0, 0);
+       margin-left: 0%;
+       margin-top: 0%;
+    }
+    25%{
+        background-color: rgb(255, 234, 0);
+      margin-left: 100%;
+      margin-right:0px;
+    
+    }
+    50%{
+        background-color: rgb(0, 208, 255);
+        margin-top: 100%;
+        margin-bottom: %;
+    }
+    75%{
+        background-color: rgb(119, 0, 255);
+        margin-top: 100%;
+        margin-right: 100%;
+    }
+    100%{
+        background-color: rgb(4, 0, 255);
+        margin-left: 0%;
+        margin-right: 100%; 
+    }
+    
+}
+.box2:hover{
+    width: 200px;
+    height:200px;
+
+    transform: rotate(90deg);
+    margin-top: 1px;
+    border-radius: 200px;
+}
+
+.box3{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(0, 179, 255);
+    transition: all .5s;
+    transition-timing-function: linear;
+}
+.box3:hover{
+    width: 200px;
+    height:200px;
+    background-color: rgb(5, 5, 212);
+    transform: rotate(90deg);
+    margin-top: 1px;
+    border-radius: 200px;
+}
+
+
+.box4{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(160, 220, 255);
+    transition: all .5s;
+    transition-timing-function: linear;
+}
+.box4:hover{
+    width: 200px;
+    height:200px;
+    background-color: rgba(5, 5, 212, 0.337);
+    transform: rotate(90deg);
+    margin-top: 100px;
+    border-radius: 200px;
+}
+
+
+.box5{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(178, 245, 245);
+    transition: all .5s;
+    transition-timing-function: linear;
+}
+.box5:hover{
+    width: 200px;
+    height:200px;
+    background-color: rgba(5, 5, 212, 0.155);
+    transform: rotate(90deg);
+    margin-top: 100px;
+    border-radius: 200px;
+}
+
+
+
+
+
+h1{
+    
+}

@@ -1,0 +1,41 @@
+/* body{
+    background-image: url(images/flower.jpg);
+    background-repeat: no-repeat;
+    background-size: 500px;
+    background-position: left top;
+}
+div{
+    background-color: rgba(246, 131, 150, 0.583);
+    height:610px;
+    width: 350px;
+    margin-left: 350px;
+    border: 2px solid rgb(254, 254, 143);
+    padding-left: 70px;
+}
+h1{
+    text-align: center;
+} */
+body{
+    background: #b0d726;
+    background-image: url(images/images.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: bottom right;
+    background-size: 500px;
+}
+div{
+    height: 250px;
+    width: 450px;
+    background-color: rgba(255, 255, 255, 0.475);
+    margin-top: 100px;
+    margin-left: 300px;
+}
+h1{
+    text-align: center;
+    padding: 5px;
+    font-family: "Dancing Script", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-size: 50px;
+}

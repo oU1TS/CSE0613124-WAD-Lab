@@ -1,0 +1,18 @@
+Lab Report 4
+Most. Thasin Sabira
+•
+12:59 PM (Edited 1:02 PM)
+100 points
+Due Mar 2, 8:00 AM
+Dear Students,
+Experiment No - 4
+Experiment Name : Write a HTML program to demonstrate a weekly Time table
+
+In this task , You all have to create a weekly time table for your section using HTML. The timetable must include all seven days of the week, including Friday and Saturday. Class timing should be from 8:00 AM to 4:00 pm.
+  (  Here, I have attached a demo timetable image as a reference. You must follow this format and create a timetable that reflects your own class routine, ensuring that it includes all 7 days of the week.)
+
+You must follow the proper lab report format ,that is provided previously. Your lab report must include the following sections:
+1. Introduction (Write about the  CSS attribute  that you have learned in lab for styling your webpage)
+2. Lab Work Code (Final HTML code that you have covered in lab 4)
+3. Lab Task Code (This section include the code for creating a time table)
+4. Lab Task Output(This section include the webpage image for creating the time table)

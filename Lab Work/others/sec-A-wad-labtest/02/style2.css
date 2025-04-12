@@ -1,0 +1,55 @@
+
+/* .box1{
+    width: 400px;
+    height: 200px;
+    background-color: rgba(22, 190, 133,1.0);
+    position: relative;
+    bottom: 0;
+
+}
+.box2{
+    width: 120px;
+    height: 120px;
+    background-color: red;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    border-radius: 50%;
+} */
+ul li a{
+    text-decoration: none;
+    color: white;
+}
+ul li{
+    display: inline;
+    padding-left: 45px;
+}
+ul{
+   padding-left: 600px;
+    background-color: rgb(35, 9, 9);
+    height: 20px;
+
+
+}
+.header{
+    position: sticky;
+}
+div h6{
+    border: 1px solid black;
+    margin-top: 190px;
+    margin-left: 900px;
+    width: 200px;
+    height: 40px;
+    background-color: rgb(55, 0, 255);
+  color: white;
+  font-size: 20px;
+    position: fixed;
+}
+.box3{
+    height: 200px;
+    width: 200px;
+    background: radial-gradient(red,green,blue);
+}

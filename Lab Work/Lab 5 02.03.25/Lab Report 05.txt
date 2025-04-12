@@ -1,0 +1,15 @@
+Lab Report : 05
+S. M. Zafrul Islam
+•
+1:11 AM
+Due Mar 9, 8:00 AM
+Picture This,
+You've just discovered an amazing online community/event/service (you can pick your favorite!). Now, you need to register. This week's challenge is to build the registration form for it. Put yourself in the user's shoes. What information is truly necessary? What layout makes sense? What little details can make a big difference? Make it a registration form you'd genuinely be happy to fill out.
+
+1. Build the registration form 
+2. Write a lab report on it with proper code and screenshots.
+
+-----------------------------------------------------------------
+
+ - <input type="button"  value="Cancel" name="btn2" onclick="javascript:window.location='welcome.html';">
+- 

@@ -1,0 +1,14 @@
+Dear 3B,
+
+Experiment no: 03
+Experiment Name: Write an HTML program for demonstrating Image and Hyperlinks.
+
+Please follow the format previously given for the lab report. Your report should include the following sections:  
+
+1. Introduction (descriptive)
+2. Class work ( The work that I have showed in the lab and all of you precticed )
+3. Lab work code ( The work you were given to do in the lab, to evaluate )
+4. Lab work output
+
+Please let me know if you have any questions.  
+Thanks!

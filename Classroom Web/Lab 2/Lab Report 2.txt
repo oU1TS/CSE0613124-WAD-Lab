@@ -1,0 +1,17 @@
+Lab Report 2
+Most. Thasin Sabira
+•
+Yesterday (Edited Yesterday)
+100 points
+Due Feb 16, 8:00 AM
+Dear students,
+Please find the attached output webpage for lab report-2 . You all have to
+recreate this webpage using the Html tags that have been covered in lab.
+
+You must follow the proper lab report format, provided in lab 2 , for this report. Your lab report must include the following sections: 
+   1. Introduction (Write about the tags that you have learned so far)
+   2. Lab Work Code (Final HTML code that you have covered in lab 2)
+   3. Lab Task Code(This section include code for the attached webpage) 
+   4. Lab Task Output (This section contain Image of your created webpage for the code)
+Lab report should be in pdf format.
+Naming format of lab report (roll.pdf)
