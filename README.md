@@ -1,5 +1,9 @@
-[ repository created on 12.04.25 ]
+[ repository created on 30.05.25 ]
 
-This is a closed repo, since the course WAD is completed.
+# If anyone wants to add their codes
+- fork the repo
+- add files following the folder structure (make a new folder for your "batch-section")
+- make Pull Request
 
-Further codes will be updated in https://github.com/b1tranger/Programming-Records repo's "web" section
+
+
