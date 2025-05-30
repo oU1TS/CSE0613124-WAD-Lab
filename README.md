@@ -1,6 +1,6 @@
 [ repository created on 12.04.25 ]
 
-# CSE0613124-WAD-Lab
+# CSE0613124 WAD Lab Codes
 
 This is a closed repo, since the course WAD is completed.
 
