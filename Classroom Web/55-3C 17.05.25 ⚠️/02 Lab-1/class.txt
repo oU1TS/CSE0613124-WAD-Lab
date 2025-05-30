@@ -1,0 +1,15 @@
+Lab -1 : Installing Environments
+1. Download and Install nodejs : https://nodejs.org/en
+2. Download vscode: https://code.visualstudio.com/
+
+Extensions: 
+html css support 
+live server 
+javascript es6
+Code Runner
+
+Class Contents: https://drive.google.com/drive/folders/1aUiiQmp8ZAxRUeJrjJE2ehkDlp3ew1eo?usp=drive_link
+
+Tutorial : https://www.youtube.com/watch?v=5deeCvboSos
+
+To check the node version in command prompt : node --version, npm --version

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    Today is the day we learn Javascript?
+
+    <p id="demo">Sum of Two Variables</p>
+    <p id="add">Show Addition</p>
+    <button onclick="change()">Change Text</button>
+    <p id="operations">Multiple Operations</p>
+    <button onclick="nextOP()">Next Operation</button>
+    <!-- <button onclick=reset()>Reset Text</button> -->
+    <script>
+      var x = 5;
+      var y = 6;
+      var z = x + y;
+      document.getElementById("demo").innerHTML = "The value of z is: " + z;
+
+      let isChange = true;
+      function change() {
+        if (isChange) {
+          document.getElementById("add").innerHTML = "Addition is: " + z;
+        } else {
+          document.getElementById("add").innerHTML = "Show Addition";
+        }
+        isChange = !isChange;
+      }
+      //   function reset() {
+      //     document.getElementById("add").innerHTML = "Show Addition";
+      //   }
+
+      let OP = 1;
+      function nextOP() {
+
+        if (OP == 1) {
+          z = x + y;
+          document.getElementById("add").innerHTML = "Addition is: " + z;
+        } else if (OP == 2) {
+          z = x - y;
+          document.getElementById("add").innerHTML = "Subtraction is: " + z;
+        } else if (OP == 3) {
+          z = x * y;
+          document.getElementById("add").innerHTML = "Multiplication is: " + z;
+        } else if (OP == 4) {
+          z = x / y;
+          document.getElementById("add").innerHTML = "Division is: " + z;
+        }
+        
+        if (OP == 4) {
+          OP = 1;
+        } else {
+          OP++;
+        }
+      }
+    </script>
+  </body>
+</html>

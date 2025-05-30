@@ -1,0 +1,61 @@
+body{
+    background: linear-gradient(burlywood, purple, pink);
+    background-image: url("doge2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* opacity: 0.5; */
+}
+/* external css integration */
+p{
+    color: firebrick;
+    text-align: center;
+}
+h1,h2{
+    text-align: center;
+    color: gray;
+    font-family: 'Phudu';
+}
+#p1{
+    color: gainsboro;
+}
+#p2{
+    color: lightgoldenrodyellow;
+}
+#p3{
+    color: lightseagreen;
+}
+.c_p_1{
+    color: black;
+    font-family: 'Phudu'; 
+    /* opacity: 0.5% ;    */
+}
+.div_1{
+    border: 1px solid;
+    border-color: black;
+    text-align: center;
+    width: 200px;
+    font-size: larger;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-image: url("doge.jpg");
+    opacity: 1;
+}
+#div_id_1{
+    margin-left: 9px;
+}
+#div_id_2{
+    margin-right: 9px;
+}
+#div_id_3{
+    margin-left: 9px;
+}
+#div_id_0{
+    font-size: xx-large;
+    width: 50%;
+    height: 50px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}

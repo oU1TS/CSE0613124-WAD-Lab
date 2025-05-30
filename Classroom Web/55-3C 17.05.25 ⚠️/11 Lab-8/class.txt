@@ -1,0 +1,6 @@
+Lab 8 : Event Listeners using JS
+Helping Tutorial : 
+https://www.youtube.com/watch?v=g_vXSKbfUiQ
+https://www.youtube.com/watch?v=q32skvBgxo4
+https://www.youtube.com/watch?v=MkvHPOT4RS8
+Class Contents: https://drive.google.com/drive/folders/1zB95YRXzFEdItuAgfMG4ASpR1rCMKh7W?usp=sharing

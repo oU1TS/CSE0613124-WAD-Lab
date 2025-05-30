@@ -1,0 +1,38 @@
+ouits-schedule.netlify.app
+
+# Introduction:
+Thank you for giving me your time to listen to my Web Application Design Project Presentation. I am Gaus, Roll no. 88 or Batch 55, Department of CSE, UITS. 
+
+# About the Project:
+My Project is called Academic Scheduler. It's about planning and managing Academic Tasks.
+My target audience is the university students. I hope that, by using this we can stay up to date with our tasks and finish them in time.
+
+# Walkthrough:
+Rather than visuals, I have focused more on the application side of this project. There are 3 core features that I am currently offering. 
+- CSE class routine
+- Semester wise schedule
+- Events planner
+
+CSE class routine downloads a PDF file of a Sheet that contains every class routine of the CSE department of UITS. Anyone can collect it from the section officer. You can narrow down your class routine by searching for your section. For example: here's the class routine of 3B, and here's the routine of today's WAD Lab.
+
+The Semester wise schedules have options for all semesters, with the same features everywhere. If we look for the 3rd semester here, there are 2 main options besides the courses list shown.
+- we can either add or see schedules
+
+# How it Works:
+My project incorporates Google's Form feature and the Google Sheets where the submitted data is stored using the form. Simply put, someone will add the necessary details of the task using the form and when the task is complete, they will have to clear it from the Google sheets.
+
+Since this works as a crowdsourcing project, and anyone can add schedules, there is little chance of missing out on important events.
+
+My project also has an events planner to list all the upcoming events. It works in the same way as the semester schedules.
+
+# Future Features:
+I want to add a few other features that I think will be useful for academics.
+- Checklists
+- Note-taking
+- Pinned notes
+
+All of them require a good level of skill in JS, as compared to the current features that can be done using HTML+CSS.
+
+That's everything I want to share about the progress of my Project.
+
+Thank you for your time. Please feel free to ask questions about the project. I will try my best to answer them.

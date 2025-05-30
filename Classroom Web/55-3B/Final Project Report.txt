@@ -1,0 +1,21 @@
+Dear Students,
+You are required to submit your Final Project Report in PDF format as part of your course evaluation. Please ensure your report is well-organized and follows the structure below:
+
+Report Format:
+
+1. Objectives
+Clearly state the aims of your project.
+2. Introduction
+Provide background and context for your project.
+3. Experimental Setup
+Describe the software, tools, and technologies used.
+4. Code & Output  
+Do NOT copy-paste the full project code.
+Include key portions of the code in written format
+Add screenshots of the relevant code sections and their outputs.
+5. Discussion
+Analyze your results, challenges faced, and how you overcame them.
+6. Conclusion
+Summarize your project’s outcomes and possible future improvements.
+
+Thanks!

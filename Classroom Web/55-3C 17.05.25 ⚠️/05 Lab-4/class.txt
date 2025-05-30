@@ -1,0 +1,9 @@
+Lab - 4: Tables in HTML
+
+Helpful Tutorials to practice at home:
+HTML Tables: https://www.w3schools.com/html/html_tables.asp
+rowspan, colspan: https://www.youtube.com/watch?v=i3OiGHFUv40
+colgroup, col elements: https://www.youtube.com/watch?v=vU1yXsYjh3Y
+tbody, thead, tfoot: https://www.youtube.com/watch?v=Y3_8DDvbDnw
+
+Classwork: Given in attachment

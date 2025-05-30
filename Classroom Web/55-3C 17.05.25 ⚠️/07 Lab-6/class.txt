@@ -1,0 +1,7 @@
+Lab - 6 : 
+Introduction to Display Properties:
+Source for Display Properties: https://www.youtube.com/watch?v=FeIok3YFvFg**Difference Between Flex and Block, Inline, and Inline-Block: https://www.youtube.com/watch?v=JtR2XKFj9tQ
+Class Contents: https://drive.google.com/drive/folders/16Q6uVPtXw7ghuZseOGjVxpG7CE5Und5q?usp=drive_link
+Introduction to JavaScript : https://www.youtube.com/watch?v=W6NZfCO5SIk&t=1095 [check the whole playlist]
+Introduction to Form : https://www.youtube.com/watch?v=S944-epyYuI&t=295s
+Class Contents : https://drive.google.com/drive/folders/1pt29KMi4EWZnn5PuYpPiVjBvkHdt5qry

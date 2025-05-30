@@ -1,0 +1,174 @@
+/* external style sheet */
+
+body{
+    background-color: #131111;
+    background: linear-gradient(black,gray,rgb(210, 207, 207) );
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+h1{
+    color: white;
+}
+
+.c1{
+    color: blanchedalmond;
+}
+
+#p1,#p2,#p3{
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#p1{
+    border: dashed;
+    border-color:aliceblue;
+    border-width: 2px;
+    border-radius: 10px; 
+    /* Higher the Number, Higher the border 
+    smoothing in the corner */
+}
+#p2{
+    border: groove;
+    border-color: wheat;
+    border-width: 2px;
+    border-radius: 10px;
+}
+#p3{
+    border: groove;
+    border-color: darkgray;
+    border-width: 2px;
+    border-radius: 10px;
+}
+#p4{
+    color: rgb(241, 183, 111);
+    border: solid;
+    border-color: beige;
+    border-width: 2px;
+    border-radius: 10px;
+}
+#p5{
+    color: beige;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.protest-guerrilla-regular {
+    font-family: "Protest Guerrilla", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: aliceblue;
+    
+    }
+.h_border{
+color: aliceblue;
+border-bottom: dashed;
+border-color: aliceblue;
+}
+#p1, #p2, #p3, #p4{
+    background-image: url("https://cdn.pixabay.com/photo/2022/09/13/11/30/pattern-7451714_640.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: contain;
+
+}
+.box1{
+    border: 5px solid;
+    width: 250px;
+    height: 250px;
+    font-size: 22px;
+    background:rgb(241, 183, 111);
+}
+.box2{
+    border: 5px solid;
+    width: 250px;
+    height: 250px;
+    font-size: 22px;
+    background:rgba(241, 134, 4, 0.943);
+    margin-top: 8%;
+    margin-bottom:8%;
+    margin-left:auto;/* will stick the left side */
+    margin-right: auto; /* will stick the right side */
+    /* if use both, content will be in the center */
+}
+.box3{
+    border: 5px solid;
+    width: 250px;
+    height: 250px;
+    font-size: 22px;
+    background:rgb(241, 183, 111);
+    margin-left: auto;
+}
+
+.imageclass1{
+
+    width: 200px;
+    height:200px;
+    
+    margin-left: 10px;
+    margin-right: 10px;
+    border: 5px;
+    border: black solid;
+    
+
+}
+.stopfloating{
+    background:linear-gradient(blue, aqua);
+    clear:both;
+    border: 5px solid;
+    height: 200px;
+    width:auto;
+    padding-left: 70px;
+    padding-right: 50px;
+    font-size: 30px;
+    align-content: center;
+    text-align: center;
+    
+}
+.stopfloating2{
+    clear:both;
+    border: 5px solid;
+    width: 20%;
+    height: 200px;
+    /* here, we will learn flex box */
+    align-content: center;
+    text-align: center;
+    
+}
+#stopfloating2_2{
+    float: left;
+    margin-left: 20%;
+    position: relative;
+    bottom: 210px;
+}
+#stopfloating2_3{
+    float: left;
+    margin-left: 40%;
+    position: relative;
+    bottom: 420px;
+}
+#stopfloating2_4{
+    float: left;
+    margin-left: 60%;
+    position: relative;
+    bottom: 630px;
+}
+#stopfloating2_5{
+    float: left;
+    margin-left: 80%;
+    position: relative;
+    bottom: 840px;
+    background:linear-gradient(blue, aqua);
+
+    
+}
+#stopfloating2_6{
+    float: left;
+    margin-left: 40%;
+    position: relative;
+    bottom: 840px;
+    background:linear-gradient(blue, aqua);
+
+}
+#divofimage{
+    position: relative;
+    left: 30%;
+}

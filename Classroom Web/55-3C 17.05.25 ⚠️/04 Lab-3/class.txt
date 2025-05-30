@@ -1,0 +1,37 @@
+Lab - 3: Introduction to CSS
+
+Major Source of class contents: 
+https://www.youtube.com/watch?v=wRNinF7YQqQ&t=2003s
+https://www.youtube.com/watch?v=ez7LvkivQoI
+
+Class Contents: https://drive.google.com/drive/folders/15vbZ9aiDKPKUd6yJPteW2eYSttQ8mIoe?usp=sharing
+
+Topics covered:
+1. Three ways to integrate CSS:
+ Inline
+ Internal
+ External
+2. Difference between class and id. 
+3. How to integrate font-family.
+4. Different kinds of border styles:
+solid
+dashed
+dotted
+double
+ridge
+groove
+inset
+outset
+5. How to add background.
+linear-gradient()
+background-image: url(" ... ")
+6. margins, padding
+7. Float & clear (wrapping around elements)
+8. Position:
+static
+relative
+absolute
+fixed
+sticky 
+9. Hover, link, visited, active
+10. Button

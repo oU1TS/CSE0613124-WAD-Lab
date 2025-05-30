@@ -1,0 +1,27 @@
+Lab -5:
+Introduction to flex-box and Lists
+
+Source for Flex-box: https://www.youtube.com/watch?v=GteJWhCikCk
+
+display: flex;
+flex-direction: row|column|row-reverse|column-reverse;
+
+display:flex;
+justify-content: flex-start|flex-end|center|space-between|space-around|space-evenly; //main/x-axis
+
+display:flex;
+//span of the container
+align-items: flex-start|flex-end|center|basline;  //y-axis
+
+display:flex;
+flex-wrap: wrap|no-wrap|wrap-reverse;
+align-content: flex-start|flex-end|space-evenly|space-between|space-between;
+column-gap & row-gap
+
+//apply to single element:
+align-self:center|end|start;
+oder:1|-1|
+
+Source for Lists: https://www.youtube.com/watch?v=oUm7rvMUNq8
+
+Class Contents : https://drive.google.com/drive/folders/1t8rRRTfawn-l-8DVMl35F3OPdkPTZxLm?usp=drive_link
