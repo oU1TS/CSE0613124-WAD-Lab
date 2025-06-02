@@ -3,4 +3,5 @@
 
 This is a closed repo, since the course WAD is completed.
 
+Further codes will be updated in https://github.com/b1tranger/Programming-Records repo's "WAD" section
 
